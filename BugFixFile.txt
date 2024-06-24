@@ -1,3 +1,5 @@
 Fixed Some bug
 
 Detected new bug
+
+Fixed new bug
